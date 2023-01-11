@@ -1,0 +1,52 @@
+/* navigation menu  */
+
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 13px;
+}
+
+/* home section will be deal here */
+#home h1{
+    font-size: 1.9rem;
+}
+#home p{
+    font-size: 1.3rem;
+    text-align: center;
+}
+#home{
+  
+    padding:0px 13px;
+  } 
+#home{
+  
+    display:flex;
+    flex-direction: column;
+    padding:0px 23px;
+    align-items: center;
+    justify-content: center;
+    height: 730px;
+} 
+
+
+/* our services will be deal here */
+#services{
+  flex-direction: column;
+  }
+
+
+/* clients section will be deal here */
+.cient-items img{
+  height: 123px;
+  width: 123px;
+  }
+  .cient-items{
+  padding: 9px;
+  }
+  #clients h1{
+    font-size: 13px;
+  }
+  #clients{
+    flex-wrap:wrap ;
+  }
